@@ -7,7 +7,7 @@ from PIL import Image
 
 # Configuración inicial de la interfaz
 st.set_page_config(page_title="Clasificador Perros/Gatos IA", layout="centered")
-st.title("Modelo predictivo Perros y Gatos - Clase de IA - Edy Martinez")
+st.title("Modelo predictivo Perros y Gatos - Clase de Inteligencia Artificial - Edy Yandel Martinez Tejeda - 20221900004")
 st.write("Suba una imagen para clasificar con el modelo MobileNetV2 entrenado localmente")
 
 # Dimensiones estándar requeridas por MobileNetV2
